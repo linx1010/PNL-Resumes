@@ -1,0 +1,18 @@
+{
+    "id": "fields.Integer",
+    "student_id": "fields.Integer",
+    "prompt_id": "fields.Integer",
+    "text": "fields.String",
+    "content": "fields.Float",
+    "wording": "fields.Float"
+}
+
+
+{
+    "id": 0,
+    "student_id": 0,
+    "prompt_id": 0,
+    "text": "string",
+    "content": 0,
+    "wording": 0
+}

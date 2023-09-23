@@ -1,0 +1,15 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç D8D1-CF32
+
+ Pasta de C:\Users\linxf\OneDrive\estudo\P¢s\Projeto Aplicado\notebooks\data\modelos
+
+16/09/2023  10:18    <DIR>          .
+16/09/2023  10:18    <DIR>          ..
+15/09/2023  14:43               753 config.json
+16/09/2023  10:18                 0 files.txt
+15/09/2023  14:43       438.000.689 pytorch_model.bin
+15/09/2023  14:43               132 special_tokens_map.json
+15/09/2023  14:43               381 tokenizer_config.json
+15/09/2023  14:43           262.030 vocab.txt
+               6 arquivo(s)    438.263.985 bytes
+               2 pasta(s)   413.331.103.744 bytes dispon°veis
