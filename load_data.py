@@ -1,3 +1,4 @@
+#imports
 from pymongo import MongoClient
 import pandas as pd
 folder = 'data/'
