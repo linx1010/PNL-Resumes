@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 import pandas as pd
-folder = 'data/'
+folder = 'PNL-Resumes/data/'
 client = MongoClient('mongodb://localhost:27017/')
 db = client['data_train']
 
